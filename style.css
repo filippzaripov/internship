@@ -1,11 +1,11 @@
 body{
-	background: red;
+	background: green;
 	width: 400px;
 	margin: 0 auto;
 }
 
 h1 {
-	font-size: 32px;
+	font-size: 60px;
 }
 
 body div{
